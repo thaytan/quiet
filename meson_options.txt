@@ -1,0 +1,3 @@
+
+option('portaudio', type : 'feature', value : 'auto', description : 'PortAudio support for input/output')
+option('programs', type : 'feature', value : 'auto', description : 'Build example programs')

@@ -1,0 +1,4 @@
+[wrap-git]
+directory = liquid-dsp
+url = https://github.com/thaytan/quiet-dsp.git
+revision = devel
